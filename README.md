@@ -96,4 +96,5 @@ LinkedIn: www.linkedin.com/in/lucas-mateus-0bbab7281
 
 
 
-*Obs: tente rodar com o CMD e tenha paciencia se der erro, procure baixar as dependencias *
+*Obs: tente rodar com o CMD e tenha paciencia se der erro, procure baixar as dependencias, esse projeto vai ser desenvolvido para um portifolio *
+

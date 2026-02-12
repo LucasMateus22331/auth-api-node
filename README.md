@@ -76,7 +76,7 @@ http://localhost:3000
 ```
 🎯 Objetivo do Projeto
 
-Este projeto foi desenvolvido com foco em aprendizado e prática de:
+Este projeto foi desenvolvido com foco em aprendizado e prática de e aprender detalhadamente como funciona um serviço de autenticação :
 
 Autenticação com JWT
 
@@ -86,7 +86,7 @@ Tipagem avançada com TypeScript
 
 Boas práticas no desenvolvimento backend
 
-👨‍💻 Autor
+*  👨‍💻 Autor  *
 
 Lucas Mateus
 GitHub: https://github.com/LucasMateus22331

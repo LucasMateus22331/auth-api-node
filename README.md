@@ -70,6 +70,7 @@ npm run dev
 ```
 
 O servidor estará disponível em:
+Obs > Executar duas vezes dara um erro, ( servidor em uso)
 
 ```
 http://localhost:3000

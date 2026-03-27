@@ -95,7 +95,7 @@ GitHub: https://github.com/LucasMateus22331
 LinkedIn: www.linkedin.com/in/lucas-mateus-0bbab7281
 
 
-
+usem em projetos reais e treinem
 
 *Obs: tente rodar com o CMD e tenha paciencia se der erro, procure baixar as dependencias *
 ( esse projeto vai ser usado para um login de autenticacao de dois fatores)
